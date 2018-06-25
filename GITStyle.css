@@ -1,4 +1,9 @@
+body {
+    background-color: purple;
+    padding: 50px;
+}
+
 p {
-align:left;
-width:250px;
+    align:left;
+    width:250px;
 }
